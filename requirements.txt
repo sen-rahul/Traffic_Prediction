@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+torch==2.2.0
+torch-geometric==2.5.3
+gym==0.26.2
+mechanize==0.4.10
